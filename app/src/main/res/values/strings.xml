@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AmazFun</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_register">New user, tap here to register !</string>
+    <string name="register">Register</string>
+
+    <string name="user_successfully_added">User successfully added!</string>
+    <string name="user_unable_to_add">Unable to add user!</string>
+    <string name="adding_user_to_db">Adding user to database.</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please wait...</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string-array name="Bats">
+        <item>"Adidas"</item>
+        <item>"Nike"</item>
+        <item>"SS"</item>
+        <item>"Gray Nicolas"</item>
+        <item>"GM"</item>
+        <item>"SG"</item>
+        <item>"Puma"</item>
+        <item>"Reebok"</item>
+    </string-array>
+    <string name="title_activity_omni_feed">OmniFeedActivity</string>
+</resources>

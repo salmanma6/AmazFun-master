@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "37409033552",
+    "firebase_url": "https://amazfun-c0163.firebaseio.com",
+    "project_id": "amazfun-c0163",
+    "storage_bucket": "amazfun-c0163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37409033552:android:4c90932c44efc0a3",
+        "android_client_info": {
+          "package_name": "sugoi.android.amazfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37409033552-300c3qd2tdsmjuc31j79oj0fb00k06rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sugoi.android.amazfun",
+            "certificate_hash": "f2a76082c309eb17218ebb0d60daba1ff41df33c"
+          }
+        },
+        {
+          "client_id": "37409033552-tmslnuhj2ikg66qkkolf2q3311m4mf5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sugoi.android.amazfun",
+            "certificate_hash": "67cbd65589e52ce4617698f817f1057dbd858667"
+          }
+        },
+        {
+          "client_id": "37409033552-3eqh42s0trdor6fapmcdlisa7lavqfjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKxVuylvs-a6rQSCzrnzurg4qeC8PvQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37409033552-3eqh42s0trdor6fapmcdlisa7lavqfjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
