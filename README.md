@@ -1,5 +1,5 @@
 # AmazFun
-Join Contribution of CodeWalkers For hackathon project in IIIT Hyderabad.
+This app has the UI that will be useful for apps which are made for sellers at ecommerce websites or apps
 
-By CodeWalkers
-
+By 
+CodeWalkers
